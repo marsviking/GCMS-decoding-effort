@@ -1,0 +1,19 @@
+Regarding GCMS experiment in general:
+The molecular analysis experiment searched for chemical compounds in the upper surface layer
+of Mars and measured atmospheric composition near the surface. The soil analyses were performed
+using a gas chromatograph mass spectrometer (GCMS) that had high sensitivity, high structural 
+specificity, and broad applicability to a wide range of compounds. Substances were vaporized 
+from the surface material by a heating process while CO2 (labeled with C-13) swept through. 
+The material was then carried into a Tenax gas-chromatographic column that was swept with 
+hydrogen as a carrier gas. While passing through the column, substances were separated by 
+different degrees of retention. The residual stream moved into the mass spectrometer (after 
+hydrogen was removed by hydrogen-only-permeable palladium), and a mass spectrum was obtained 
+every 10 s for the 84 min of the gas chromatogram. In some cases, the same sample was reheated
+at a higher temperature and analyzed to detect less volatile materials. For atmospheric measurements,
+gases were directly introduced into the mass spectrometer, bypassing the gas chromatograph column.
+
+Regarding digital files provided here:
+Each sample run is on a separate file, and there is one record for each spectral scan, 
+including mass spectrum data and engineering data. Listed is the intensity in arbitrary 
+linear units as a function of mass number from 12 to 215 in the conventional mass spectrum 
+format. The engineering information included permits conversion of intensities to current units.
